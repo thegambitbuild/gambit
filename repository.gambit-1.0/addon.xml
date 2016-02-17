@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.gambit" name="Gambit Repo" version="1.0" provider-name="Gambit">
+	<extension point="xbmc.addon.repository" name="Gambit">
+		<info compressed="false">http://gambit.comxa.com/Plugins/addons.xml</info>
+		<checksum>http://gambit.comxa.com/Plugins/addons.xml.md5</checksum>
+		<datadir zip="true">http://gambit.comxa.com/Plugins/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Gambit Repo</summary>
+		<description>Work in progress</description>
+		<platform>all</platform>
+	</extension>
+</addon>
