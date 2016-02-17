@@ -9,30 +9,22 @@
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
 name="Gambit"\
 url="https://archive.org/download/gambit_011816/gambit_011816.zip"
-img="http://gambit.comxa.com/pics/icon.jpg"\
-fanart="http://gambit.comxa.com/pics/fanart.jpg"\
+img="https://archive.org/download/gambit_thumb/gambit_thumb.jpg"\
+fanart="https://ia801508.us.archive.org/16/items/thegambitbuild_gmail_Card/card.jpg"\
 description="Gambit Wizard setup"}
-
-
-\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-name="Gambit 18+ (XXX)"\
-url="https://archive.org/download/gambitXXX/gambitXXX.zip"
-img="http://gambit.comxa.com/pics/gambitlogoxxx.jpg"\
-fanart="http://gambit.comxa.com/pics/splashXXX.jpg"\
-description="Gambit Wizard setup for Adults (18+)"}
 
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
 name="Classic"\
 url="https://archive.org/download/classic_010416/classic_010416.zip"
-img="http://gambit.comxa.com/pics/classic2.jpg"\
-fanart="http://gambit.comxa.com/pics/anonymous_suit.jpg"\
+img="https://ia601500.us.archive.org/0/items/classic_201602/classic.jpg"\
+fanart="https://ia601500.us.archive.org/18/items/thegambitbuild_gmail_Suit/suit.jpg"\
 description="A Classic Kodi Setup"}
 
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
 name="Freeflix"\
 url="https://archive.org/download/freeflix_011416/freeflix_011416.zip"
-img="http://gambit.comxa.com/pics/freeflixlogo.jpg"\
-fanart="http://gambit.comxa.com/pics/freeflixsplash.jpg"\
+img="https://archive.org/download/freeflixlogo/freeflixlogo.jpg"\
+fanart="https://ia601502.us.archive.org/20/items/freeflixsplash_201602/freeflixsplash.jpg"\
 description="A FREE alternative to Netflix"}
