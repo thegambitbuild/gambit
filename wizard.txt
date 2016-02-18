@@ -8,7 +8,7 @@
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
 name="Gambit"\
-url="https://archive.org/download/gambit_020916/gambit_020916.zip"
+url="https://archive.org/download/gambit_021716/gambit_021716.zip"
 img="https://archive.org/download/gambit_thumb/gambit_thumb.jpg"\
 fanart="https://ia801508.us.archive.org/16/items/thegambitbuild_gmail_Card/card.jpg"\
 description="Gambit Wizard setup"}
