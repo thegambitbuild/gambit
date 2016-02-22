@@ -13,6 +13,13 @@ img="https://archive.org/download/gambit_thumb/gambit_thumb.jpg"\
 fanart="https://ia801508.us.archive.org/16/items/thegambitbuild_gmail_Card/card.jpg"\
 description="Gambit Wizard setup"}
 
+\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
+name="Gambit-Jarivs 16.0"\
+url="https://archive.org/download/gambitjarvis_022116/gambitjarvis_022116.zip"
+img="https://archive.org/download/gambit_thumb/gambit_thumb.jpg"\
+fanart="https://ia801508.us.archive.org/16/items/thegambitbuild_gmail_Card/card.jpg"\
+description="Gambit Wizard setup for kodi 16.0 Jarvis."}
+
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
 name="Classic"\
