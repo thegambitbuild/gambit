@@ -8,13 +8,13 @@
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
 name="Gambit"\
-url="https://archive.org/download/gambit_022116/gambit_022116.zip"
+url="https://archive.org/download/gambit_22516/gambit_22516.zip"
 img="https://archive.org/download/gambit_thumb/gambit_thumb.jpg"\
 fanart="https://ia801508.us.archive.org/16/items/thegambitbuild_gmail_Card/card.jpg"\
 description="Gambit Wizard setup"}
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-name="Gambit-Jarivs 16.0"\
+name="Gambit-Jarivs 16.0 (USE REGULAR GAMBIT FOR NOW)"\
 url="https://archive.org/download/gambitjarvis_022316/gambitjarvis_022316.zip"
 img="https://archive.org/download/jarvisicon/jarvisicon.jpg"\
 fanart="https://ia801508.us.archive.org/16/items/thegambitbuild_gmail_Card/card.jpg"\
