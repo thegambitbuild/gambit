@@ -7,11 +7,11 @@
 
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-name="Gambit"\
+name="FireNox"\
 url="https://archive.org/download/gambit_032116/gambit_032116.zip"
 img="https://archive.org/download/jarvisicon/jarvisicon.jpg"\
 fanart="https://ia801508.us.archive.org/16/items/thegambitbuild_gmail_Card/card.jpg"\
-description="Gambit Wizard Setup For JARVIS"}
+description="FireNox Build For JARVIS"}
 
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
