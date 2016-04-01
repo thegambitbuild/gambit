@@ -10,7 +10,7 @@
 name="FireNox"\
 url="https://archive.org/download/firenox_033116/firenox_033116.zip"
 img="https://ia601509.us.archive.org/31/items/thegambitbuild_gmail_FN/FN.jpg"\
-fanart="https://ia601502.us.archive.org/19/items/phoenixfanart_201603/phoenixfanart.jpg"\
+fanart="https://archive.org/download/firenox/firenox.jpg"\
 description="FireNox Build For JARVIS"}
 
 
