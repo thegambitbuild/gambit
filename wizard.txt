@@ -11,7 +11,7 @@ name="FireNox"\
 url="https://archive.org/download/firenox_040816/firenox_040816.zip"
 img="https://ia601509.us.archive.org/31/items/thegambitbuild_gmail_FN/FN.jpg"\
 fanart="https://archive.org/download/firenoxhd/firenoxhd.jpg"\
-description="FireNox Build For JARVIS"}
+description="FireNox(Gambit) Build For JARVIS"}
 
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
@@ -23,8 +23,8 @@ description="A Classic Kodi Setup"}
 
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-name="Freeflix"\
-url="https://archive.org/download/freeflix_011416/freeflix_011416.zip"
+name="FireFlix"\
+url="https://archive.org/download/fireflix_041116/fireflix_041116.zip"
 img="https://archive.org/download/freeflixlogo/freeflixlogo.jpg"\
 fanart="https://ia601502.us.archive.org/20/items/freeflixsplash_201602/freeflixsplash.jpg"\
 description="A FREE alternative to Netflix"}
