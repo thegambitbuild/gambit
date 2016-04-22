@@ -16,7 +16,7 @@ description="FireNox(Gambit) Build For JARVIS"}
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
 name="Classic"\
-url="https://archive.org/download/classic_010416/classic_010416.zip"
+url="https://archive.org/download/classic_build/classic_042216.zip"
 img="https://ia601500.us.archive.org/0/items/classic_201602/classic.jpg"\
 fanart="https://ia601500.us.archive.org/18/items/thegambitbuild_gmail_Suit/suit.jpg"\
 description="A Classic Kodi Setup"}
