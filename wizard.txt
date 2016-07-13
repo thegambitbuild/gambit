@@ -7,8 +7,8 @@
 
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-name="YouTube Channel"\
-url="null"
+name="YouTube Channel (Gambit Wizard)"\
+url="https://www.youtube.com/channel/UCVUKcpoqV1vKJoobdUoASIg"
 img="https://archive.org/download/tubeicon/tubeicon.png"\
 fanart="https://ia601505.us.archive.org/27/items/youtubefanart_201607/youtubefanart.jpg"\
 description="Please Visit My Youtube Channel For Tutorials: https://goo.gl/moib7a"}
