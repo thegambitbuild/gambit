@@ -15,10 +15,10 @@ description="Please Visit My Youtube Channel For Tutorials: https://goo.gl/moib7
 
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-name="FireNox Update: 07.09.16"\
+name="The Gambit Update: 07.09.16"\
 url="https://archive.org/download/firenox_070916/firenox_070916.zip"
-img="https://ia601509.us.archive.org/31/items/thegambitbuild_gmail_FN/FN.jpg"\
-fanart="https://archive.org/download/firenoxhd/firenoxhd.jpg"\
+img="https://archive.org/download/thegambiticon1/thegambiticon1.jpg"\
+fanart="https://archive.org/download/thegambitfanart/thegambitfanart.jpg"\
 description="MAKE SURE YOU PERFORM A FRESH START FIRST THEN YOU UPDATE"}
 
 
