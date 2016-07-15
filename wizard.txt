@@ -8,8 +8,7 @@
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
 name="YouTube Channel (Gambit Wizard)"\
-url="dialog = xbmcgui.Dialog()
-    dialog.ok("Fresh Start complete", "Fresh start complete, please now restart Kodi, any method will do.")"
+url="null"
 img="https://archive.org/download/tubeicon/tubeicon.png"\
 fanart="https://ia601505.us.archive.org/27/items/youtubefanart_201607/youtubefanart.jpg"\
 description="Please Visit My Youtube Channel For Tutorials: https://goo.gl/moib7a"}
@@ -40,7 +39,7 @@ description="A FREE alternative to Netflix"}
 
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-name="Don't Install This"\
+name="Don't Support This"\
 url="null"
 img="https://ia601507.us.archive.org/20/items/thegambitbuild_gmail_Fdt/fdt.png"\
 fanart="null"\
