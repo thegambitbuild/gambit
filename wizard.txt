@@ -7,7 +7,7 @@
 
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-name="How to Update"\
+name="Youtube Channel (Gambit Wizard)"\
 url="plugin://plugin.video.youtube/play/?video_id=IGN4F7kuPmc"
 img="https://archive.org/download/tubeicon/tubeicon.png"\
 fanart="https://ia601505.us.archive.org/27/items/youtubefanart_201607/youtubefanart.jpg"\
