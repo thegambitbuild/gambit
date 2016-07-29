@@ -15,8 +15,8 @@ description="Please Visit My Youtube Channel For Tutorials: https://goo.gl/moib7
 
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-name="The Gambit Update: 07.27.16"\
-url="https://archive.org/download/thegambit_072716/thegambit_072716.zip"
+name="The Gambit Update: 07.29.16"\
+url="https://archive.org/download/thegambit_072816/thegambit_072816.zip"
 img="https://archive.org/download/thegambiticon1/thegambiticon1.jpg"\
 fanart="https://archive.org/download/thegambitfanart/thegambitfanart.jpg"\
 description="MAKE SURE YOU PERFORM A FRESH START FIRST THEN YOU UPDATE"}
