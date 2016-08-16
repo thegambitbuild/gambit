@@ -11,12 +11,12 @@ name="Youtube Channel (Gambit Wizard)"\
 url="plugin://plugin.video.youtube/play/?video_id=IGN4F7kuPmc"
 img="https://archive.org/download/tubeicon/tubeicon.png"\
 fanart="https://ia601505.us.archive.org/27/items/youtubefanart_201607/youtubefanart.jpg"\
-description="Please Visit My Youtube Channel For Tutorials: https://goo.gl/moib7a, now there's an addon to provide my videos on Kodi."}
+description="Please Visit My Youtube Channel For Tutorials: http://youtube.com/gambitwizard, now there's an addon to provide my videos on Kodi."}
 
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-name="The Gambit Update: 07.29.16"\
-url="https://archive.org/download/thegambit_072816/thegambit_072816.zip"
+name="The Gambit Update: 08.16.16"\
+url="https://archive.org/download/thegambit_081516/thegambit_081516.zip"
 img="https://archive.org/download/thegambiticon1/thegambiticon1.jpg"\
 fanart="https://archive.org/download/thegambitfanart/thegambitfanart.jpg"\
 description="MAKE SURE YOU PERFORM A FRESH START FIRST THEN YOU UPDATE"}
