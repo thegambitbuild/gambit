@@ -7,7 +7,7 @@
 
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-name="Youtube Channel (Gambit Wizard)"\
+name="Youtube Channel (GambitWizard)"\
 url="plugin://plugin.video.youtube/play/?video_id=IGN4F7kuPmc"
 img="https://archive.org/download/tubeicon/tubeicon.png"\
 fanart="https://ia601505.us.archive.org/27/items/youtubefanart_201607/youtubefanart.jpg"\
@@ -36,11 +36,3 @@ url="https://archive.org/download/fireflix_041116/fireflix_041116.zip"
 img="https://archive.org/download/freeflixlogo/freeflixlogo.jpg"\
 fanart="https://ia601502.us.archive.org/20/items/freeflixsplash_201602/freeflixsplash.jpg"\
 description="A FREE alternative to Netflix"}
-
-
-\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-name="Don't Support This"\
-url="null"
-img="https://ia601507.us.archive.org/20/items/thegambitbuild_gmail_Fdt/fdt.png"\
-fanart="null"\
-description="FDT"}
