@@ -10,7 +10,7 @@
 name="Youtube Channel (GambitWizard)"\
 url="plugin://plugin.video.youtube/play/?video_id=IGN4F7kuPmc"
 img="https://archive.org/download/tubeicon/tubeicon.png"\
-fanart="https://ia601505.us.archive.org/27/items/youtubefanart_201607/youtubefanart.jpg"\
+fanart="https://ia601508.us.archive.org/30/items/youtubefanart_201608/youtubefanart.jpg"\
 description="Please Visit My Youtube Channel For Tutorials: http://youtube.com/gambitwizard, now there's an addon to provide my videos on Kodi."}
 
 
