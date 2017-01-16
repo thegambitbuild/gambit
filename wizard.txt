@@ -15,11 +15,11 @@ description="Please Visit My Youtube Channel For Tutorials: http://youtube.com/g
 
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-name="Arctic: Gambit Update: 1.06.2017"\
-url="https://archive.org/download/gambit_10617/gambit_10617.zip"
+name="Arctic: Gambit Update: 1.16.2017"\
+url="https://archive.org/download/gambit_1.0.0/gambit_1.0.0.zip"
 img="https://archive.org/download/thegambiticon1/thegambiticon1.jpg"\
 fanart="https://archive.org/download/thegambitfanart/thegambitfanart.jpg"\
-description="MAKE SURE YOU PERFORM A FRESH START FIRST THEN YOU UPDATE"}
+description="V.1.0.0"}
 
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
